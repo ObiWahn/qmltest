@@ -16,6 +16,7 @@ qml resources in:
  - https://doc.qt.io/qt-6/qt-add-qml-module.html
  - https://www.qt.io/blog/introduction-to-the-qml-cmake-api
  - https://www.qt.io/blog/qml-modules-in-qt-6.2
+ - https://doc.qt.io/qt-6/qtqml-writing-a-module.html#custom-directory-layouts
  - https://gitlab.com/kelteseth/qt6-cmake-qml-plugin-example-project (an excellent example project)
 
 ## Critique
